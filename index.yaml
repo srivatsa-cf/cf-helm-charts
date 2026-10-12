@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  cf-codenavigator:
+  - apiVersion: v2
+    appVersion: 5.4.1
+    created: "2026-10-12T15:23:39.4247292+05:30"
+    description: CloudFrame Continuum, single instance (one pod, embedded database,
+      one data volume).
+    digest: 32f463f2d7d7c34264201731ea377747fe47c36932cd866587c36dd0326ce3c6
+    home: https://www.cloudframe.com
+    kubeVersion: '>=1.25.0-0'
+    maintainers:
+    - email: support@cloudframe.com
+      name: CloudFrame Support
+    name: cf-codenavigator
+    type: application
+    urls:
+    - https://cloudframe.github.io/cf-helm-charts/cf-codenavigator-5.4.1.tgz
+    version: 5.4.1
+generated: "2026-10-12T15:23:39.4241974+05:30"
